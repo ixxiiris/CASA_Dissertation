@@ -1,0 +1,9 @@
+Specification,Coef,CI_lower,CI_upper,P-value
+Baseline (Full FE),-3.892,-11.728,3.944,0.33
+NDVI < 0.2,2.574,-3.114,8.263,0.375
+Pixel rate > 0.4,2.506,-3.551,8.563,0.417
+Placebo year (2009),-0.0032,,,
+Drop Guiyang & Urban,-3.267,-10.063,3.528,0.346
+County FE only,-1.714,-6.601,3.174,
+Year FE only,2.126,-1.595,5.847,
+Spatial lag of drought,-3.8917,-11.739,3.956,0.331
