@@ -113,46 +113,67 @@ Guizhou Statistical Yearbooks & 2000/2010 census – population & migration
 - August: Heterogeneity analysis, figure finalisation, dissertation write-up.
 ---
 
-##  References 【待添加】
+##  References
 
 > Core references are stored in `/references/`, including:  
->- Beine, M. and Parsons, C. (2015). ‘Climatic Factors as Determinants of International Migration’. The Scandinavian Journal of Economics. Wiley, 117 (2), pp. 723–767. doi: 10.1111/sjoe.12098.
->- Black, R., Adger, W. N., Arnell, N. W., Dercon, S., Geddes, A. and Thomas, D. (2011). ‘The effect of environmental change on human migration’. Global Environmental Change, 21, pp. S3–S11. doi: 10.1016/j.gloenvcha.2011.10.001.
->- Bohra-Mishra, P., Oppenheimer, M., Cai, R., Feng, S. and Licker, R. (2017). ‘Climate variability and migration in the Philippines’. Population and Environment, 38 (3), pp. 286–308. doi: 10.1007/s11111-016-0263-x.
->- Cai, R., Feng, S., Oppenheimer, M. and Pytlikova, M. (2016). ‘Climate variability and international migration: The importance of the agricultural linkage’. Journal of Environmental Economics and Management. Elsevier BV, 79, pp. 135–151. doi: 10.1016/j.jeem.2016.06.005.
->- Cattaneo, C., Beine, M., Fröhlich, C. J., Kniveton, D., Martinez-Zarzoso, I., Mastrorillo, M., Millock, K., Piguet, E. and Schraven, B. (2019). ‘Human Migration in the Era of Climate Change’. Review of Environmental Economics and Policy, 13 (2), pp. 189–206. doi: 10.1093/reep/rez008.
->- Central Committee of the Communist Party of China and State Council of the People’s Republic of China. (2025). The Rural Revitalisation Plan (2024–2027). Beijing, China: Government of the People’s Republic of China. Available at: https://www.gov.cn/zhengce/202501/content_7000493.htm.
->- Chan, K. W. (2010). ‘The Household Registration System and Migrant Labor in China: Notes on a Debate’. Population and Development Review, 36 (2), pp. 357–364. doi: 10.1111/j.1728-4457.2010.00333.x.
->- De Haas, H. (2021). ‘A theory of migration: the aspirations-capabilities framework’. Comparative Migration Studies. Springer Science and Business Media LLC, 9 (1). doi: 10.1186/s40878-020-00210-4.
->- Gray, C. and Mueller, V. (2012). ‘Drought and Population Mobility in Rural Ethiopia’. World Development. Elsevier BV, 40 (1), pp. 134–145. doi: 10.1016/j.worlddev.2011.05.023.
->- Guizhou Provincial Bureau of Statistics. (2011). Guizhou Statistical Yearbook 2011. Beijing: China Statistics Press.
->- Hoffmann, R. (no date). ‘Drought and aridity influence internal migration worldwide’. Nature Climate Change. doi: doi.org/10.1038/s41558-024-02165-1.
->- Hoffmann, R., Abel, G., Malpede, M., Muttarak, R. and Percoco, M. (2024). ‘Drought and aridity influence internal migration worldwide’. Nature Climate Change. Springer Science and Business Media LLC, 14 (12), pp. 1245–1253. doi: 10.1038/s41558-024-02165-1.
->- Huang, J. (2012). ‘Spatial changes of population and economic causes in Guizhou Province in the past decade’. Contemporary Economics, (8), pp. 94–96.
->- Intergovernmental Panel On Climate Change (Ipcc). (2023). Climate Change 2022 – Impacts, Adaptation and Vulnerability: Working Group II Contribution to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change. 1st edn. Cambridge University Press. doi: 10.1017/9781009325844.
->- Liang, S., Wu, W., Sun, J., Li, Z., Sun, X., Chen, H., Chen, S., Fan, L., You, L. and Yang, P. (2021). ‘Climate-mediated dynamics of the northern limit of paddy rice in China’. Environmental Research Letters, 16 (6), p. 064008. doi: 10.1088/1748-9326/abfac0.
->- Liang, Z. and Ma, Z. (2004). ‘China’s Floating Population: New Evidence from the 2000 Census’. Population and Development Review, 30 (3), pp. 467–488. doi: 10.1111/j.1728-4457.2004.00024.x.
->- Lu, M. and Xia, Y. (2016). ‘Migration in the People’s Republic of China’.
->- Luo, Y., Tian, M., Wu, H., Wang, C. and Zhang, J. (2019). ‘Spatio-temporal distribution and climatic background of agricultural drought in Guizhou Province’. Jilin Agriculture, (10), pp. 108–112. doi: 10.14025/j.cnki.jlny.2019.10.071.
->- McLeman, R. (2018). ‘Thresholds in climate migration’. Population and Environment. Springer Science and Business Media LLC, 39 (4), pp. 319–338. doi: 10.1007/s11111-017-0290-2.
->- Mueller, V., Gray, C. and Kosec, K. (2014). ‘Heat stress increases long-term human migration in rural Pakistan’. Nature Climate Change. Springer Science and Business Media LLC, 4 (3), pp. 182–185. doi: 10.1038/nclimate2103.
->- National Climate Center, C. M. A. (2025). China Climate Change Blue Book (2025). 9787030824820. Beijing, China: Science Press.
->- Sun, Y. (2023). ‘Temperature effects on rural household outmigration: Evidence from China’. Population and Environment, 45 (4), p. 25. doi: 10.1007/s11111-023-00441-4.
->- The State of Food and Agriculture 2021: Making Agrifood Systems More Resilient to Shocks and Stresses. (2021). S.l.: Food and Agriculture Organization of the United Nations.
->- Vicente-Serrano, S. M., Beguería, S. and López-Moreno, J. I. (2010). ‘A Multiscalar Drought Index Sensitive to Global Warming: The Standardized Precipitation Evapotranspiration Index’. Journal of Climate, 23 (7), pp. 1696–1718. doi: 10.1175/2009JCLI2909.1.
->- Wang, H., Chen, B. and Shen, X. (2024). ‘Extreme rainfall, farmer vulnerability, and labor mobility—Evidence from rural China’. Science of The Total Environment, 918, p. 170866. doi: 10.1016/j.scitotenv.2024.170866.
->- Wang, X. (2013). ‘Different Roles of Land in Rural–Urban Migration: Evidence from China’s Household Survey’. China & World Economy, 21 (1), pp. 107–126. doi: 10.1111/j.1749-124X.2013.12011.x.
->- Wei, W. and Li, X. (2021). ‘Changes of NDVI in Beipan River Basin of Guizhou Province and its relationship with terrain gradient and population distribution during 2000–2018’. Bulletin of Soil and Water Conservation, 41 (6), pp. 361–368. doi: 10.13961/j.cnki.stbctb.2021.06.046.
->- Yun, S., Jun, Y. and Hong, S. (2012). ‘Social perception and response to the drought process: a case study of the drought during 2009–2010 in the Qianxi’nan Prefecture of Guizhou Province’. Natural Hazards, 64 (1), pp. 839–851. doi: 10.1007/s11069-012-0274-6.
->- Zheng, W., Chen, X., Xu, W. and Wu, Z. (2024). ‘Heterogeneous and short-term effects of a changing climate on farmers’ labor allocation: An empirical analysis of China’. PLOS ONE. Edited by Z. Mushtaq, 19 (7), p. e0306260. doi: 10.1371/journal.pone.0306260.
+
+> - Adger, W. N., Crépin, A.-S., Folke, C., Ospina, D., Chapin, F. S., Segerson, K., Seto, K. C., Anderies, J. M., Barrett, S., Bennett, E. M., Daily, G., Elmqvist, T., Fischer, J., Kautsky, N., Levin, S. A., Shogren, J. F., Van Den Bergh, J., Walker, B. and Wilen, J. (2020). ‘Urbanization, Migration, and Adaptation to Climate Change’. One Earth, 3 (4), pp. 396–399. https://doi.org/10.1016/j.oneear.2020.09.016.
+> - Akbari, K., Winter, S. and Tomko, M. (2023). ‘Spatial Causality: A Systematic Review on Spatial Causal Inference’. Geographical Analysis, 55 (1), pp. 56–89. https://doi.org/10.1111/gean.12312.
+> - Ayeb-Karlsson, S., Kniveton, D. and Cannon, T. (2020). ‘Trapped in the prison of the mind: Notions of climate-induced (im)mobility decision-making and wellbeing from an urban informal settlement in Bangladesh’. Palgrave Communications, 6 (1), p. 62. https://doi.org/10.1057/s41599-020-0443-2.
+> - Barrios, S., Bertinelli, L. and Strobl, E. (2006). ‘Climatic change and rural–urban migration: The case of sub-Saharan Africa’. Journal of Urban Economics, 60 (3), pp. 357–371. https://doi.org/10.1016/j.jue.2006.04.005.
+> - Beine, M. and Parsons, C. (2015). ‘Climatic Factors as Determinants of International Migration’. The Scandinavian Journal of Economics. Wiley, 117 (2), pp. 723–767. https://doi.org/10.1111/sjoe.12098.
+> - Black, R., Adger, W. N., Arnell, N. W., Dercon, S., Geddes, A. and Thomas, D. (2011). ‘The effect of environmental change on human migration’. Global Environmental Change, 21, pp. S3–S11. https://doi.org/10.1016/j.gloenvcha.2011.10.001.
+> - Cattaneo, C., Beine, M., Fröhlich, C. J., Kniveton, D., Martinez-Zarzoso, I., Mastrorillo, M., Millock, K., Piguet, E. and Schraven, B. (2019). ‘Human Migration in the Era of Climate Change’. Review of Environmental Economics and Policy, 13 (2), pp. 189–206. https://doi.org/10.1093/reep/rez008.
+> - Central Committee of the Communist Party of China and State Council of the People’s Republic of China. (2025). The Rural Revitalisation Plan (2024–2027). Beijing, China: Government of the People’s Republic of China. Available at: https://www.gov.cn/zhengce/202501/content_7000493.htm.
+> - Chan, K. W. (2010). ‘The Household Registration System and Migrant Labour in China: Notes on a Debate’. Population and Development Review, 36 (2), pp. 357–364. https://doi.org/10.1111/j.1728-4457.2010.00333.x.
+> - Chen, Y., Tan, Y. and Gruschke, A. (2021). ‘Rural vulnerability, migration, and relocation in mountain areas of Western China: An overview of key issues and policy interventions’. Chinese Journal of Population, Resources and Environment, 19 (1), pp. 110–116. https://doi.org/10.1016/j.cjpre.2021.12.012.
+> - De Haas, H. (2021). ‘A theory of migration: the aspirations-capabilities framework’. Comparative Migration Studies. Springer Science and Business Media LLC, 9 (1). https://doi.org/10.1186/s40878-020-00210-4.
+> - Dell, M., Jones, B. F. and Olken, B. A. (2012). ‘Temperature Shocks and Economic Growth: Evidence from the Last Half Century’. American Economic Journal: Macroeconomics, 4 (3), pp. 66–95. https://doi.org/10.1257/mac.4.3.66.
+> - Government Office for Science. (2011). Foresight: Migration and Global Environmental Change. Final Project Report. London: The Government Office for Science.
+> - Gray, C. and Mueller, V. (2012). ‘Drought and Population Mobility in Rural Ethiopia’. World Development. Elsevier BV, 40 (1), pp. 134–145. https://doi.org/10.1016/j.worlddev.2011.05.023.
+> - Guizhou Provincial Bureau of Statistics. (2011). Guizhou Statistical Yearbook 2011. Beijing: China Statistics Press.
+> - Guizhou Provincial Government. (2010a). ‘Documentary Record of Drought Relief in Guizhou (2010)’.
+> - Guizhou Provincial Government. (2010b). ‘Major Government Work Record of Guizhou Province (2010)’.
+> - Huang, J. (2012). ‘Spatial changes of population and economic causes in Guizhou Province in the past decade’. Contemporary Economics, (8), pp. 94–96.
+> - Hunter, L. M., Luna, J. K. and Norton, R. M. (2015). ‘Environmental Dimensions of Migration’. Annual Review of Sociology, 41 (1), pp. 377–397. https://doi.org/10.1146/annurev-soc-073014-112223.
+> - Intergovernmental Panel on Climate Change (IPCC). (2023). Climate Change 2022 – Impacts, Adaptation and Vulnerability: Working Group II Contribution to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change. 1st edn. Cambridge University Press. https://doi.org/10.1017/9781009325844.
+> - Kogan, F. N. (2001). ‘Operational Space Technology for Global Vegetation Assessment’. Bulletin of the American Meteorological Society, 82 (9), pp. 1949–1964. https://doi.org/10.1175/1520-0477(2001)082%253C1949:OSTFGV%253E2.3.CO;2.
+> - Liang, S., Wu, W., Sun, J., Li, Z., Sun, X., Chen, H., Chen, S., Fan, L., You, L. and Yang, P. (2021). ‘Climate-mediated dynamics of the northern limit of paddy rice in China’. Environmental Research Letters, 16 (6), p. 064008. https://doi.org/10.1088/1748-9326/abfac0.
+> - Liang, Z. and Ma, Z. (2004). ‘China’s Floating Population: New Evidence from the 2000 Census’. Population and Development Review, 30 (3), pp. 467–488. https://doi.org/10.1111/j.1728-4457.2004.00024.x.
+> - Lu, M. and Xia, Y. (2016). ‘Migration in the People’s Republic of China’.
+> - Luo, Y., Tian, M., Wu, H., Wang, C. and Zhang, J. (2019). ‘Spatio-temporal distribution and climatic background of agricultural drought in Guizhou Province’. Jilin Agriculture, (10), pp. 108–112. https://doi.org/10.14025/j.cnki.jlny.2019.10.071.
+> - McLeman, R. (2018). ‘Thresholds in climate migration’. Population and Environment. Springer Science and Business Media LLC, 39 (4), pp. 319–338. https://doi.org/10.1007/s11111-017-0290-2.
+> - Ministry of Agriculture and Rural Affairs of the People’s Republic of China and Ministry of Finance of the People’s Republic of China. (2021). ‘Administrative Measures for the Construction of Modern Agricultural Industry Technology System’. Beijing, China.
+> - Mueller, V., Gray, C. and Kosec, K. (2014). ‘Heat stress increases long-term human migration in rural Pakistan’. Nature Climate Change. Springer Science and Business Media LLC, 4 (3), pp. 182–185. https://doi.org/10.1038/nclimate2103.
+> - Nawrotzki, R. J. and DeWaard, J. (2016). ‘Climate shocks and the timing of migration from Mexico’. Population and Environment, 38 (1), pp. 72–100. https://doi.org/10.1007/s11111-016-0255-x.
+> - People’s Government of Guizhou Province. (2021). ‘The 14th Five-Year Plan for Water Conservancy Development of Guizhou Province’. Guiyang, China.
+> - State Council of China. (2011). ‘Rural Poverty Alleviation and Development Programme (2011–2020)’.
+> - The State of Food and Agriculture 2021: Making Agrifood Systems More Resilient to Shocks and Stresses. (2021). S.l.: Food and Agriculture Organization of the United Nations.
+> - Tucker, C. J., Pinzon, J. E., Brown, M. E., Slayback, D. A., Pak, E. W., Mahoney, R., Vermote, E. F. and El Saleous, N. (2005). ‘An extended AVHRR 8‐km NDVI dataset compatible with MODIS and SPOT vegetation NDVI data’. International Journal of Remote Sensing, 26 (20), pp. 4485–4498. https://doi.org/10.1080/01431160500168686.
+> - Wang, H., Chen, B. and Shen, X. (2024). ‘Extreme rainfall, farmer vulnerability, and labour mobility—Evidence from rural China’. Science of The Total Environment, 918, p. 170866. https://doi.org/10.1016/j.scitotenv.2024.170866.
+> - Wang, X. (2013). ‘Different Roles of Land in Rural–Urban Migration: Evidence from China’s Household Survey’. China & World Economy, 21 (1), pp. 107–126. https://doi.org/10.1111/j.1749-124X.2013.12011.x.
+> - Warner, K., Afifi, T., Henry, K., Rawe, T., Smith, C. and Sherbinin, A. D. (2012). ‘GLOBAL POLICY REPORT’. Climate Change.
+> - Wei, W. and Li, X. (2021). ‘Changes of NDVI in Beipan River Basin of Guizhou Province and its relationship with terrain gradient and population distribution during 2000–2018’. Bulletin of Soil and Water Conservation, 41 (6), pp. 361–368. https://doi.org/10.13961/j.cnki.stbctb.2021.06.046.
+> - Yun, S., Jun, Y. and Hong, S. (2012). ‘Social perception and response to the drought process: a case study of the drought during 2009–2010 in the Qianxi’nan Prefecture of Guizhou Province’. Natural Hazards, 64 (1), pp. 839–851. https://doi.org/10.1007/s11069-012-0274-6.
+> - Zheng, W., Chen, X., Xu, W. and Wu, Z. (2024). ‘Heterogeneous and short-term effects of a changing climate on farmers’ labour allocation: An empirical analysis of China’. PLOS ONE. Edited by Z. Mushtaq, 19 (7), p. e0306260. https://doi.org/10.1371/journal.pone.0306260.
+
+
 
 
 ---
 
 ##  Acknowledgements 【待完善】
 
-Special thanks to Dr. Ollie Ballinger for guidance on methodological design and topic development.  
-Field-level insights were inspired by Yun et al. (2012) and enriched by conversations around spatial causality in fragile ecosystems.
+This dissertation was completed during the long daylight hours of a foreign summer, in this remote city. It marks not only the conclusion of a degree, but also the continuation of a personal journey of inquiry and growth.
+
+I would first like to express my deepest gratitude to my supervisor, Dr. Ollie Ballinger, for his generous guidance and thoughtful feedback throughout this project. Our discussions, particularly on methodological design and spatial analysis strategies, were invaluable in shaping the structure and direction of this work. His patience and encouragement allowed me to develop both confidence and precision in my research.
+
+I am equally indebted to my parents and close friends, whose quiet support and steadfast belief carried me through moments of uncertainty. Their presence, even at a distance, was an anchor that kept me steady.
+
+I would also like to acknowledge CASA at UCL for providing an intellectually rich environment, outstanding resources, and a community that constantly pushed me to expand my horizons.
+
+Finally, I wish to thank myself—for persisting in the practice of learning, for loosening attachments in the pursuit of freedom, and for allowing knowledge to transform into awareness. As I wrote these pages, I held onto a phrase that accompanied me throughout the year: _“Avowing subject loosen its hold on itself.”_ This meant letting the world pass through me, recognising illusion, and moving toward a world of possibilities.
+
 
 ---
 
